@@ -1,3 +1,6 @@
 [submodule "app-backend"]
 	path = app-backend
 	url = git@github.com:anthonymekerke/bankManagement-spring.git
+[submodule "app-frontend"]
+	path = app-frontend
+	url = git@github.com:anthonymekerke/bankManagement-angular.git
