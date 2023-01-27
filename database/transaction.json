@@ -1,0 +1,10 @@
+{
+	"executionDate":"1990-09-01", 
+	"valueDate":"1990-09-01", 
+	"withdraw":50.0, 
+	"payment":null, 
+	"wording":"new operation without balance attribut",  
+	"account": {
+		"id":4
+	}
+}

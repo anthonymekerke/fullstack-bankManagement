@@ -1,0 +1,181 @@
+Colonne "Budget": Categories suggérées
+
+-----------------------------------------------------------------------
+Categorie "Dépense":
+-----------------------------------------------------------------------
+
+Alimentation =
+Grande surface
+Petit commerçant
+Snacks / repas au travail
+Alimentation, divers
+
+
+Vie quotidienne = 
+Café / jeux / tabac
+Habillement
+Retrait d'argent
+Soin du corps / coiffeur / cosmétique
+Shopping
+Transport / taxi / location
+Vie quotidienne, divers
+
+
+Enfant & scolarité = 
+Activités extra-scolaires
+Argent de poche
+Frais de scolarité et accessoires
+Garde / cantine
+Habillement / équipement
+Jeux et divertissements
+Logement étudiant
+Pension alimentaire versée
+Prêt étudiant
+Enfants / scolarité, divers
+
+
+sante = 
+Médecin
+Cotisations assurances / mutuelles
+Lunettes / appareillages
+Médecine douce
+Pharmacie
+Prestations médicales / hospitalisation
+Santé, divers
+
+Logement/maison =
+Assurance
+Energies / eau
+Entretien / bricolage
+Equipement / ameublement
+Extérieur et jardin
+Loyer / charges
+Crédit Immo
+Travaux
+Logement, divers
+
+
+Vehicule =
+Achat / crédit / leasing
+Assurance
+Carburant
+Entretien
+Parking / péage
+Véhicule, divers
+
+
+Numérique =
+Achats high tech
+Internet (ou triple play)
+Téléphonie fixe
+Téléphonie mobile
+Abonnements TV
+Numérique, divers -> Service numérique
+
+
+Loisirs =
+Culture -> Media (Presse/journal) | Media (Plateforme web)
+Passion
+Sorties / restaurant
+Sport
+Loisirs, divers
+
+
+Vacance/weekend =
+Transport
+Hébergement / restauration
+Activité
+Vacances / weekend, divers
+
+animaux =
+Alimentation
+Vétérinaire
+Animaux, divers
+
+Impots/taxe =
+Impôt sur la fortune
+Impôt sur le revenu
+Taxes foncière et habitation
+Impôt / taxes, divers
+
+
+Autres depenses =
+Assurances / prévoyance / dépendance -> Assurance santé (Tiers-payant)
+Cadeaux
+Cartes crédit / crédits Conso
+Dons caritatifs
+Frais bancaires
+Frais professionnels
+Service à domicile / employé de maison
+Autres dépenses, divers
+
+
+Epargne =
+Assurance vie / épargne bloquée
+Bourse / titres
+Epargne disponible
+Epargne salariale
+Epargne, divers
+
+
+Hors budget =
+Virements internes
+Notes de frais
+Hors budget, divers
+
+-----------------------------------------------------------------------
+Categorie "Revenue":
+-----------------------------------------------------------------------
+
+revenues professionnels =
+Frais professionnels
+Salaire / prime
+Retraites
+Revenus remplacement, complémentaire
+Revenus professionnels, divers
+
+Famille =
+Allocations
+Don / cadeaux
+Pension alimentaire reçue
+Famille, divers
+
+
+Revenues de placement =
+Cession d'actifs
+Intérêts
+Revenu foncier
+Revenus de placement, divers
+
+
+Autres revenues =
+Revenus exceptionnels
+Déblocage crédit
+Vente
+Autres revenus, divers
+
+
+a categoriser =
+Remise de chèque
+Versement espèce
+Virements reçus
+A catégoriser, divers
+
+
+epargne =
+Assurance vie / épargne bloquée
+Bourse / titres
+Epargne disponible
+Epargne salariale
+Epargne, divers
+
+
+Hors budget =
+Virements internes
+Notes de frais
+Hors budget, divers
+
+
+
+
+

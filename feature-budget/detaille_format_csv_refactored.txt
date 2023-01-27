@@ -1,0 +1,142 @@
+Colonne présentes:
+Date,Date de valeur,Debit,Credit,Libelle,Solde
+
+
+Type de paiement:
+
+On peut retrouver le type de paiement à l'aide de l'indicatif du libellé, il sont définies comme suit:
+	- PRLV SEPA -> prélevement sepa (mandat)
+	- PAIEMENT CB -> paiement carte bancaire
+	- PAIEMENT PSC -> paiement sans contacte
+	- VIR SEPA -> virement sepa effectué soi-même depuis l'application
+	- VIR -> virement reçu
+	- VRST -> depot d'argent cash en agence
+	- RETRAIT DAB -> retrait distributeur automatique billet
+	- F -> frais bancaire
+	- IMPAYE -> retour de virement impayé
+
+	! remboursement frais de santé pas indicatif précis
+
+Colonne "Budget": Categories suggérées
+
+Catégorie | Mixte (peut etre a la fois depense et recette. Uniquement depense -> false) | Liste annotations
+
+
+Alimentation 		| false	| 6-10
+Famille			| true	| 17-19, 55
+Vie quotidienne		| false	| 2, 11-15
+Scolarité		| false	| 12, (16|22), 20-21, 23-25, 33
+Santé			| -----	| 27-32
+Logement		| false	| 33-41
+Vehicule		| false	| 33-35, 37, 42
+Numérique, High Tech	| false	| 38, 43-45, 48
+Loisirs	/ Culture	| false	| 9, 17, 38, 45-48, 
+Vacance/weekend		| false	| 2-3, 9, 46-49
+animaux			| false	| 30, 50, 
+Impots/taxe		| true	| 51-54
+Placement/épargne	| true	| 
+Achat/Vente		| true	|
+Professionnel		| true	| 
+
+
+
+Autres depenses =
+Assurances / prévoyance / dépendance
+Dons caritatifs
+Frais bancaires
+Service à domicile / employé de maison
+
+Professionnels =
+Frais professionnels
+Salaire / prime
+Retraites
+Revenus remplacement, complémentaire
+
+
+Famille =
+Allocations
+Don / cadeaux
+Pension alimentaire
+
+
+Placement / epargne =
+Assurance vie / épargne bloquée
+Bourse / titres
+Epargne disponible
+Epargne salariale
+Cession d'actifs
+Intérêts
+Revenu foncier
+
+
+Annotation:
+(0) Autres
+(1) Achat/Vente
+(2) Transport Individuel / taxi / location
+(3) Transport Public
+(4) Emplette (dépense courante)
+(5) Vehicules
+(22) Frais
+(26) Jeux et divertissements
+(33) Assurance
+(34) Crédit
+(50) Alimentation
+(55) Don / Cadeau
+
+(6) Grande surface
+(7) Petit commerçant
+(8) Snacks / repas au travail
+(9) restaurant
+(10) fast-food
+
+(11) Café / jeux / tabac
+(12) Habillement
+(13) Retrait d'argent
+(14) Soin du corps / coiffeur / cosmétique
+(15) Shopping
+
+(16) Frais de scolarité
+(17) Activités extra-scolaires
+(18) Argent de poche
+(19) Garde / babysitter
+(20) Cantine
+(21) Fournitures scolaire
+(23) Logement étudiant
+(24) Prêt étudiant
+(25) Pension alimentaire
+
+(27) Médecin generaliste
+(28) Cotisations assurances / mutuelles
+(29) Lunettes / appareillages
+(30) Médecine specialiste
+(31) Pharmacie
+(32) Prestations médicales / hospitalisation
+
+(35) Energies
+(36) Eau
+(37) Entretien
+(38) Equipement / ameublement
+(39) Extérieur et jardin
+(40) Loyer / Charge (Dissocier ?)
+(41) Travaux
+
+(42) Parking / péage
+
+(43) Internet / triple play
+(44) Téléphonie
+(45) SVOD
+
+(46) Sport / Activité physique
+(47) Presse/journal
+(48) Plateforme web
+
+(49) Hébergement
+
+(51) Impôt sur la fortune
+(52) Impôt sur le revenu
+(53) Taxes foncière
+(54) Taxes habitation
+
+
+
+
