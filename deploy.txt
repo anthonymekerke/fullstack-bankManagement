@@ -1,0 +1,5 @@
+url front: http://bankmanagement-front.s3-website-us-east-1.amazonaws.com/
+
+MySQL: amazon RDS
+Spring: elastic Beanstalk
+Angular: amazon S3
