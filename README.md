@@ -45,27 +45,27 @@ Déployer l'application sur des services Cloud tel AWS, Azure ou Google Cloud Pl
 #### À faire / Souhaitées (Idées)
 
 * Mettre en place l'onglet 'Budget' avec pour fonctionnalitées:
- * Visualiser un courbe d'évolution du solde en fonction du temps
- * Visualiser une "balance" des dépenses/revenue
- * Effectuer une recherche sur les opérations en fonction de leur libellé, date d'execution, montant...
- * Catégoriser les opérations (Alimentation, Transport...) et évaluer la dépenses pour chaque catégories.
+  * Visualiser la courbe d'évolution du solde en fonction du temps
+  * Visualiser une "balance" dépenses/revenues
+  * Effectuer une recherche sur les opérations en fonction de leur libellé, date d'execution, montant...
+  * Catégoriser les opérations (Alimentation, Transport...) et évaluer la dépenses pour chaque catégories.
 * Mettre en place un onglet 'Utilisateur' avec pour fonctionnalitées:
   * Visualiser les infos personnelles de l'utilisateur
   * Permettre à l'utilisateur de modifier son email et son mot de passe
 
 ### Images
 
-[image](screenshots/authentication_page.png "Authentication page")
+![image](screenshots/authentication_page.png "Authentication page")
 
-[image](screenshots/home_page.png "Homepage")
+![image](screenshots/home_page.png "Homepage")
 
-[image](screenshots/account_list_page.png "List of accounts")
+![image](screenshots/account_list_page.png "List of accounts")
 
-[image](screenshots/account_transaction_page.png "Transaction on the account")
+![image](screenshots/account_transaction_page.png "Transaction on the account")
 
-[image](screenshots/account_detail_page.png "Details about the given account")
+![image](screenshots/account_detail_page.png "Details about the given account")
 
-[image](screenshots/transfer_page.png "Making a transaction")
+![image](screenshots/transfer_page.png "Making a transaction")
 
 ### Dépendances
 
@@ -78,13 +78,20 @@ Déployer l'application sur des services Cloud tel AWS, Azure ou Google Cloud Pl
     <tr><td><b>Langage</b></td><td>Java, TypeScript</td></tr>
     <tr><td><b>Technologies/Logiciels</b></td><td>Spring, Angular</td></tr>
     <tr><td><b>Normes & architectures</b></td><td>API Rest, JWT</td></tr>
-	<tr><td><b>Méthodes</b></td><td></td></tr>
   </tbody>
 </table>
 
-### Installation / Compilation
+### Lancement
 
-### Lancement (run)
+Une première version de l'application est déployé sur AWS a l'adresse:  
+http://bankmanagement-front.s3-website-us-east-1.amazonaws.com  
+Différents utilisateurs sont enregistrés avec les identifiants suivants:  
+
+| Identifiant | Mot de passe |
+| --- | --- |
+| rduval | easypwd |
+| bling | easypwd |
+| plopez | easypwd |
 
 #### Help
 
